@@ -10,3 +10,4 @@ This approach aims to maintain an organized queuing process for individuals visi
 
 ## UML
 
+![hw 9](https://github.com/madedios/singletonpattern/assets/77655167/a5eded5e-7dd4-44b0-b282-5d97a5616317)
